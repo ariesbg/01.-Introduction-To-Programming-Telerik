@@ -5,11 +5,12 @@ Problem 1. Play with Visual Studio
     Start Visual Studio and familiarize yourself with it. Create a simple C# program (console application), compile and run it.
 
 You do not have to submit anything in your homework for this problem.
+
 Problem 2. Blank Solution in Visual Studio
 
     Create a blank solution in Visual Studio called “Intro-Programming-Homework”. This solution will hold all your homework projects, code and files. For each problem (exercises) add a separate project with self-descriptive name like “Hello-World” and “Print-Your-Name”.
 
-    You do not have to submit anything in your homework for this problem.
+  You do not have to submit anything in your homework for this problem.
 
 Problem 3. Play with MSDN Library
 
@@ -19,24 +20,28 @@ Problem 3. Play with MSDN Library
         Find information about the class keyword.
 
 You do not have to submit anything in your homework for this problem.
+
 Problem 4. Hello World
 
     Create, compile and run a “Hello C#” console application.
     Ensure you have named the application well (e.g. “”HelloCSharp”).
 
 You should submit the Visual Studio project holding the HelloCSharp class as part of your homework.
+
 Problem 5. Print Your Name
 
     Modify the previous application to print your name.
     Ensure you have named the application well (e.g. “PrintMyName”).
 
 You should submit a separate project Visual Studio project holding the PrintMyName class as part of your homework.
+
 Problem 6. Print Numbers
 
     Write a program to print the numbers 1, 101 and 1001, each at a separate line.
     Name the program correctly.
 
 You should submit in your homework the Visual Studio project holding the source code of the PrintNumbers program.
+
 Problem 7. Print First and Last Name
 
     Create console application that prints your first and last name, each at a separate line.
